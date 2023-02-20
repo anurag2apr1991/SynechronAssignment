@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Anurag",
+    "pincode": "410045",
+    "gender": "M",
+    "city": "Panchkula"
+  },
+  {
+    "id": 2,
+    "name": "Vishal",
+    "pincode": "312301",
+    "gender": "M",
+    "city": "Pune"
+  },
+  {
+    "id": 3,
+    "name": "Mira",
+    "pincode": "112233",
+    "gender": "M",
+    "city": "Thane"
+  },
+  {
+    "id": 4,
+    "name": "Sheila",
+    "pincode": "566779",
+    "gender": "F",
+    "city": "Delhi"
+  },
+  {
+    "id": 5,
+    "name": "Heena",
+    "pincode": "334422",
+    "gender": "F",
+    "city": "Mumbai"
+  }
+]
